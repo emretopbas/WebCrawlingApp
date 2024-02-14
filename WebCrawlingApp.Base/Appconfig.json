@@ -1,0 +1,23 @@
+{
+  "Browser": "Chrome"
+  //"RotatingProxy": "Enabled",
+  //"ProxyList": [
+  //  {
+  //    "address": 1,
+  //    "port": 1
+  //  },
+  //  {
+  //    "address": 1,
+  //    "port": 1
+  //  },
+  //  {
+  //    "address": 1,
+  //    "port": 1
+  //  },
+  //  {
+  //    "address": 1,
+  //    "port": 1
+  //  }
+  //]
+    //config dosyas� bu alanda olu�turulacak bir db ba�lant�s� credentiallar� girilebilir
+}
